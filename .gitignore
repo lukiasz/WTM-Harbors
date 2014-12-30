@@ -1,0 +1,12 @@
+Core/CoreHarbors.suo
+Core/CoreHarbors.v11.suo
+Core/CoreHarbors/bin/
+*.csproj.user
+Core/CoreHarbors/obj/
+Core/packages/
+Core/SrtHarbor/bin/
+Core/SrtHarbor/obj/
+Core/Tests/bin/
+Core/Tests/obj/
+Core/TextHarbor/bin/
+Core/TextHarbor/obj/

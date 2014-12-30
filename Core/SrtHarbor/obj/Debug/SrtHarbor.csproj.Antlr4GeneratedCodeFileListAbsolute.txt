@@ -1,0 +1,6 @@
+D:\src\waytomaster\Harbors\Core\SrtHarbor\obj\Debug\SRTLexer.cs
+D:\src\waytomaster\Harbors\Core\SrtHarbor\obj\Debug\SRTParser.cs
+D:\src\waytomaster\Harbors\Core\SrtHarbor\obj\Debug\SRTParserListener.cs
+D:\src\waytomaster\Harbors\Core\SrtHarbor\obj\Debug\SRTParserBaseListener.cs
+D:\src\waytomaster\Harbors\Core\SrtHarbor\obj\Debug\SRTParserVisitor.cs
+D:\src\waytomaster\Harbors\Core\SrtHarbor\obj\Debug\SRTParserBaseVisitor.cs
